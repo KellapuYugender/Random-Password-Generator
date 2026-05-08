@@ -1,4 +1,4 @@
-Random Password Generator
+# Random Password Generator
 
 Author : Yugender Kellapu
 link :
